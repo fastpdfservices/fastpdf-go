@@ -1,3 +1,3 @@
-module fastpdf
+module github.com/fastpdfservices/fastpdf-go
 
-go 1.21.3
+go 1.17
